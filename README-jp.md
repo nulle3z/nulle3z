@@ -1,11 +1,11 @@
 <div style="text-align: right; padding: 2%">
     <a href="README-zh.md">Chinese</a>
     <a href="#">English</a>
-    <!--<a href="README-jp.md">Japanese</a> -->
+    <a href="README-jp.md">Japanese</a>
 </div>
 
 
-| **Who am i?** | **My Wish** |
+| **私は誰** | **私に願い** |
 | --- | --- |
 | A forever student. That's all | Become a Full-stack developer |
 
@@ -43,7 +43,7 @@
 
 ### Story
 
-Actually, I already had a GitHub account in the winter of 2022. Choosing to register a new account this year represents a new beginning.
+実は、私はすでに 2022 年の冬には GitHub のアカウントを持っていました。今年新しいアカウントを登録することを選んだのは、新たな始まりを意味します。
 
-I no longer remember what my first visit to GitHub was for; I probably registered after seeing someone recommend it on a BBS.
+最初に GitHub を訪れた目的はもう覚えていません。おそらく、誰かが BBS でおすすめしているのを見た後に登録したのだと思います。
 
