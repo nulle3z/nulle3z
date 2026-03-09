@@ -1,9 +1,17 @@
-<div style="text-align: right; padding: 2%">
-    <a href="#">Chinese</a>
-    <a href="README.md">English</a>
-    <a href="README-jp.md">Japanese</a>
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 1.2rem; border-radius: 1.5rem;">
+	<div>
+		<img src="images/src/c/c_48x48.png">
+		<img src="images/src/html/html_48x48.png">
+		<img src="images/src/css/css_48x48.png">
+		<img src="images/src/python/python_48x48.png">
+		<img src="images/src/javascript/javascript_48x48.png">
+	</div>
+	<div>
+		<a href="README-zh.md">Chinese</a>
+		<a href="#">English</a>
+		<a href="README-jp.md">Japanese</a>
+	</div>
 </div>
-
 
 | **我是谁？** | **我的愿望** |
 | --- | --- |
@@ -46,4 +54,8 @@
 实际上，我在 2022 年冬天就已经有一个 GitHub 账户了。今年选择注册一个新账户意味着一个新的开始。
 
 我已经不记得我第一次访问 GitHub 的目的是什么了；我可能是在看到有人在论坛上推荐之后注册的。
+
+---
+
+[^images]: 以上图片（位于 images/src 下的所有图片）均来自 https://github.com/abranhe/programming-languages-logos
 
