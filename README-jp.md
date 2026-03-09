@@ -1,16 +1,16 @@
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 1.2rem; border-radius: 1.5rem;">
-	<div>
-		<img src="images/src/c/c_48x48.png">
-		<img src="images/src/html/html_48x48.png">
-		<img src="images/src/css/css_48x48.png">
-		<img src="images/src/python/python_48x48.png">
-		<img src="images/src/javascript/javascript_48x48.png">
-	</div>
-	<div>
-		<a href="README-zh.md">Chinese</a>
-		<a href="#">English</a>
-		<a href="README-jp.md">Japanese</a>
-	</div>
+  <div>
+    <img src="https://github.com/abranhe/programming-languages-logos/raw/main/src/c/c_48x48.png" width="48" height="48" alt="C">
+    <img src="https://github.com/abranhe/programming-languages-logos/raw/main/src/html/html_48x48.png" width="48" height="48" alt="HTML">
+    <img src="https://github.com/abranhe/programming-languages-logos/raw/main/src/css/css_48x48.png" width="48" height="48" alt="CSS">
+    <img src="https://github.com/abranhe/programming-languages-logos/raw/main/src/python/python_48x48.png" width="48" height="48" alt="Python">
+    <img src="https://github.com/abranhe/programming-languages-logos/raw/main/src/javascript/javascript_48x48.png" width="48" height="48" alt="JavaScript">
+  </div>
+  <div>
+    <a href="README-zh.md">Chinese</a>
+    <a href="README.md">English</a>
+    <a href="#">Japanese</a>
+  </div>
 </div>
 
 | **私は誰** | **私に願い** |
@@ -54,6 +54,4 @@
 実は、私はすでに 2022 年の冬には GitHub のアカウントを持っていました。今年新しいアカウントを登録することを選んだのは、新たな始まりを意味します。
 
 最初に GitHub を訪れた目的はもう覚えていません。おそらく、誰かが BBS でおすすめしているのを見た後に登録したのだと思います。
-
-[^images]: 以上の画像（images/src にあるすべての画像）は https://github.com/abranhe/programming-languages-logos からのものです
 
