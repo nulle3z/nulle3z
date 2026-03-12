@@ -1,16 +1,14 @@
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 1.2rem; border-radius: 1.5rem;">
-  <div>
-    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" width="48" height="48" alt="C">
-    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" width="48" height="48" alt="HTML">
-    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" width="48" height="48" alt="CSS">
-    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" width="48" height="48" alt="Python">
-    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" width="48" height="48" alt="JavaScript">
-  </div>
-  <div>
-    <a href="#">Chinese</a>
-    <a href="README.md">English</a>
-    <a href="README-jp.md">Japanese</a>
-  </div>
+<div align="left">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" width="48" height="48" alt="C">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" width="48" height="48" alt="HTML">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" width="48" height="48" alt="CSS">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" width="48" height="48" alt="Python">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" width="48" height="48" alt="JavaScript">
+</div>
+<div align="right">
+  <a href="#">Chinese</a>
+  <a href="README.md">English</a>
+  <a href="README-jp.md">Japanese</a>
 </div>
 
 | **我是谁？** | **我的愿望** |
